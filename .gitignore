@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# Secret key
+secret_key.txt
+
+# Configuration files
+*.swp
+*.swo
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# macOS
+.DS_Store
